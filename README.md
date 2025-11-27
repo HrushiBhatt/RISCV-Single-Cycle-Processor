@@ -1,7 +1,7 @@
 # RISC-V Single-Cycle Processor (RV32I) — VHDL
 
 A compact, course-grade CPU that executes a core subset of RV32I in **one cycle per instruction**. The design emphasizes a clean separation between datapath and control, timing-safe interfaces, and a verification flow that compares against RARS reference behavior.  
-**Result:** Final course grade for this project: **99.47%**.
+**Result:** Final grade for this project: **99.47%**.
 
 ---
 
